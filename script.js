@@ -3,8 +3,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const photos = [
         { src: 'assets/sophia1.jpg', description: '학교숙제 - 우표그리기' },
-        { src: 'photo2.jpg', description: '사진 2 설명' },
-        { src: 'photo3.jpg', description: '사진 3 설명' },
+        { src: 'assets/sophia2.jpg', description: '미술대회 대상작품' },
+        { src: 'assets/sophia3.jpg', description: '미술대회 대상 상장' },
         // 더 많은 사진 데이터를 여기에 추가하세요
     ];
 
